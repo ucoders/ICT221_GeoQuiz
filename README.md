@@ -1,1 +1,1 @@
-# ICT221_GeoQuiz
+# Starting code to ICT311 GeoQuiz
